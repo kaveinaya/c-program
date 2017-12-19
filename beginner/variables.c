@@ -1,4 +1,4 @@
-
+#include<stdio.h>
 int main()
 {
 char a[30]="Sachin Ramesh Tendulkar";
